@@ -1,0 +1,22 @@
+* {
+    /* background-color: antiquewhite; */
+    font-family: "Times New Roman", sans-serif;
+}
+
+h1 {
+    color: rgb(81, 27, 207);
+    text-align: center;
+}
+
+ul {
+    font-size: 24px;
+}
+
+.listing {
+    margin: 10px auto;
+    width: 400px;
+    height: auto;
+    padding: 10px;
+    border: 1px solid black;
+    text-align: center;
+}
